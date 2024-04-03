@@ -5,14 +5,12 @@
 
 ------
 <br>
-<br />
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙂 Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 안녕하세요, 풀스택 개발자 김현수입니다.</li><li> 주변 사람들과 원활한 소통을 중요시합니다.</li><li> 새로운 경험을 하는 것에 뿌듯함을 느낍니다.</li><li> 긍정적인 마인드로 소통하고 도전하는 믿음직한 개발자가 되겠습니다. </div> 
     </div>
 
-<br />
-<br />
+
 <br />
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
