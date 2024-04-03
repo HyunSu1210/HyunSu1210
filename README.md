@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=f2d6bf&height=180&text=KimHyunSu&animation=&fontColor=ffffff&fontSize=70" />
     </div>
